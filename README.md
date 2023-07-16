@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2038%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -30,11 +30,11 @@
 
 > 📦 221.8 kB Used in GitHub's Storage 
  > 
-> 🏆 289 Contributions in the Year 2023
+> 🏆 291 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 10 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 6 Private Repositories 
  > 
@@ -88,17 +88,17 @@ Linux                    9 hrs 42 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Python                   9 repos             ██████████░░░░░░░░░░░░░░░   40.91 % 
+C++                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jinja                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 16/07/2023 00:55:39 UTC
+ Last Updated on 16/07/2023 01:36:26 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
