@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -97,7 +97,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2023 00:46:03 UTC
+ Last Updated on 10/08/2023 01:34:18 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
