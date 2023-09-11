@@ -1,0 +1,34 @@
+name: Update SVG
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11.5'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Generate and update SVG
+      run: python main.py
+      env:
+        TKN: ${{ secrets.TKN }}
+
+    - name: Commit and push
+      run: |
+        git config user.name 'whois-hoeless'
+        git config user.email 'whois@hoeless.com'
+        git add output.html
+        git commit -m "Update SVG"
+        git push
