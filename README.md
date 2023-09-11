@@ -20,42 +20,42 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whois-hoeless&theme=radical)](https://github.com/whois-hoeless)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-37.2%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 222.9 kB Used in GitHub's Storage 
  > 
-> 🏆 406 Contributions in the Year 2023
+> 🏆 413 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
 > 📜 16 Public Repositories 
  > 
-> 🔑 6 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-🌆 Daytime                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-🌃 Evening                309 commits         ██████████████░░░░░░░░░░░   57.33 % 
-🌙 Night                  157 commits         ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+🌞 Morning                15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌆 Daytime                58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌃 Evening                313 commits         ██████████████░░░░░░░░░░░   57.43 % 
+🌙 Night                  159 commits         ███████░░░░░░░░░░░░░░░░░░   29.17 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   96 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Tuesday                  56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Friday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Saturday                 79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Sunday                   136 commits         ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
+Monday                   100 commits         █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Tuesday                  58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Wednesday                40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+Thursday                 48 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+Friday                   84 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Saturday                 79 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+Sunday                   136 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
 ```
 
 
@@ -98,7 +98,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2023 21:35:24 UTC
+ Last Updated on 11/09/2023 22:06:34 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
