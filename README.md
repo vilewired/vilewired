@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilehalation&theme=radical)](https://github.com/vilehalation)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-150%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,17 +65,19 @@ Sunday                   138 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████████████░░░░   82.88 % 
-Text                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Python                   45 mins             ██████████████████████░░░   89.47 % 
+Text                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-private                  31 mins             █████████████████████████   100.00 % 
+private                  33 mins             █████████████████░░░░░░░░   66.25 % 
+Unknown Project          13 mins             ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
+PySilon-malware          4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
 
 💻 Operating System: 
-Linux                    31 mins             █████████████████████████   100.00 % 
+Linux                    50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +93,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2023 22:07:24 UTC
+ Last Updated on 03/10/2023 22:35:42 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
