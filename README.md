@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Vile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/vilehalation"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Neural+Networks;I'm+interested+in+Computer+Science;I+love+Cybersecurity;By+the+way+I+use+Arch+%F0%9F%92%80"></a>
+  <a href="https://github.com/viledissociation"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Neural+Networks;I'm+interested+in+Computer+Science;I+love+Cybersecurity;By+the+way+I+use+Arch+%F0%9F%92%80"></a>
 </p>
 
 ## About me:
@@ -16,8 +16,8 @@
 
 <div align="center">
     
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vilehalation&count_private=true&show_icons=true&theme=radical)](https://github.com/vilehalation)
- [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilehalation&theme=radical)](https://github.com/vilehalation)
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viledissociation&count_private=true&show_icons=true&theme=radical)](https://github.com/viledissociation)
+ [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viledissociation&theme=radical)](https://github.com/viledissociation)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2017%20mins-blue)
@@ -117,7 +117,7 @@ Also, donate or this lovely little fella has to pay with his life (  he only has
 <div align="center">
 
 
-https://github.com/whois-hoeless/whois-hoeless/assets/85312115/5d099e02-7258-404e-b272-c693c2972ad6
+https://github.com/viledissociation/viledissociation/assets/85312115/5d099e02-7258-404e-b272-c693c2972ad6
 
 
 </div>
@@ -125,9 +125,9 @@ https://github.com/whois-hoeless/whois-hoeless/assets/85312115/5d099e02-7258-404
 ## Here, have snek :>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/whois-hoeless/whois-hoeless/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
 </div>
 
 <div align="center">
