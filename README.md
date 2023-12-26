@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viledissociation&theme=radical)](https://github.com/viledissociation)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,7 +90,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/12/2023 21:35:31 UTC
+ Last Updated on 26/12/2023 22:06:41 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
