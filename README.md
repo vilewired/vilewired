@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viledissociation&theme=radical)](https://github.com/viledissociation)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,19 +65,18 @@ Sunday                   247 commits         ██████░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   7 hrs 23 mins       █████████████████████░░░░   85.02 % 
-Text                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Python                   4 hrs 17 mins       ████████████████████░░░░░   80.87 % 
+Text                     1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 18 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Synthia-bot              7 hrs 51 mins       ███████████████████████░░   90.34 % 
-Unknown Project          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Synthia-bot              4 hrs 17 mins       ████████████████████░░░░░   80.87 % 
+Unknown Project          1 hr                █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
 
 💻 Operating System: 
-Linux                    8 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +92,7 @@ Jinja                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2024 23:06:19 UTC
+ Last Updated on 02/02/2024 23:35:38 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
