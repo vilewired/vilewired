@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Vile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm vile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/viledissociation"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=300&size=28&duration=4000&pause=100&color=C109F7&center=true&vCenter=true&width=580&height=127&lines=I'm+a+programmer;I'm+an+AI+enthusiast;I'm+a+big+fan+of+Neural+Networks;I'm+interested+in+Computer+Science;I+love+Cybersecurity;By+the+way+I+use+Arch+%F0%9F%92%80"></a>
 </p>
@@ -16,8 +16,8 @@
 
 <div align="center">
     
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=viledissociation&count_private=true&show_icons=true&theme=radical)](https://github.com/viledissociation)
- [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viledissociation&theme=radical)](https://github.com/viledissociation)
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vilev0&count_private=true&show_icons=true&theme=radical)](https://github.com/vilev0)
+ [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilev0&theme=radical)](https://github.com/vilev0)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs-blue)
@@ -127,9 +127,9 @@ https://github.com/viledissociation/viledissociation/assets/85312115/5d099e02-72
 ## Here, have snek :>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/viledissociation/viledissociation/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vilev0/vilev0/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vilev0/vilev0/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilev0/vilev0/output/github-contribution-grid-snake.svg">
 </div>
 
 <div align="center">
