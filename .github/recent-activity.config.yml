@@ -4,7 +4,7 @@ settings:
   commit_name: "readme-bot"
   commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   ignored_repos:
-    - viledissociation/viledissociation
+    - vilev0/vilev0
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
   issue_opened: "❗️ Opened issue {ID} in {REPO}"
