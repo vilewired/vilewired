@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilev0&theme=radical)](https://github.com/vilev0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,6 +29,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 18.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 463 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -86,17 +88,17 @@ Linux                    6 hrs 44 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ██████████████░░░░░░░░░░░   56.52 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   13 repos            ███████████████░░░░░░░░░░   59.09 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64 % 
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 26/04/2024 21:35:38 UTC
+ Last Updated on 26/04/2024 22:06:56 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
