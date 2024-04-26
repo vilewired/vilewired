@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilev0&theme=radical)](https://github.com/vilev0)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,7 +98,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2024 17:35:12 UTC
+ Last Updated on 26/04/2024 18:06:57 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
