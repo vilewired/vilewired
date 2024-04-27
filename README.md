@@ -16,8 +16,8 @@
 
 <div align="center">
     
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vilev0&count_private=true&show_icons=true&theme=radical)](https://github.com/vilev0)
- [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilev0&theme=radical)](https://github.com/vilev0)
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vilewired&count_private=true&show_icons=true&theme=radical)](https://github.com/vilewired)
+ [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2027%20mins-blue)
@@ -128,9 +128,9 @@ https://github.com/viledissociation/viledissociation/assets/85312115/5d099e02-72
 ## Here, have snek :>
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vilev0/vilev0/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vilev0/vilev0/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilev0/vilev0/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vilewired/vilewired/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vilewired/vilewired/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vilewired/vilewired/output/github-contribution-grid-snake.svg">
 </div>
 
 <div align="center">
