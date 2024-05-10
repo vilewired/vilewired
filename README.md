@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-305%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -30,11 +30,11 @@
 
 > 📦 18.7 kB Used in GitHub's Storage 
  > 
-> 🏆 506 Contributions in the Year 2024
+> 🏆 508 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -87,17 +87,17 @@ Linux                    17 hrs 2 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████████████░░░░░░░░░░   58.33 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   14 repos            ██████████████░░░░░░░░░░░   56.00 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 10/05/2024 20:35:32 UTC
+ Last Updated on 10/05/2024 21:06:41 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
