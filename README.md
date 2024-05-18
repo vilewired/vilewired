@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-309%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -85,17 +85,17 @@ Linux                    4 hrs 1 min         ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   13 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   13 repos            █████████████░░░░░░░░░░░░   52.00 % 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Shell                    2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
 
 
- Last Updated on 18/05/2024 21:35:34 UTC
+ Last Updated on 18/05/2024 22:06:19 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
