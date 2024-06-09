@@ -117,7 +117,7 @@ Also, donate or this lovely little fella has to pay with his life (  he only has
 <div align="center">
 
 
-https://github.com/viledissociation/viledissociation/assets/85312115/5d099e02-7258-404e-b272-c693c2972ad6
+https://github.com/vilewired/vilewired/assets/85312115/5d099e02-7258-404e-b272-c693c2972ad6
 
 
 </div>
