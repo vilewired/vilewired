@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -29,8 +29,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 19.4 kB Used in GitHub's Storage 
- > 
-> 🏆 560 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,16 +63,18 @@ Sunday                   916 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   59 mins             ███████████████████████░░   91.09 % 
+Text                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Synthia-bot              59 mins             ███████████████████████░░   91.09 % 
+Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +90,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/06/2024 22:07:43 UTC
+ Last Updated on 24/06/2024 22:35:24 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
