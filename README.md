@@ -20,17 +20,17 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-178.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 20.3 kB Used in GitHub's Storage 
  > 
-> 🏆 566 Contributions in the Year 2024
+> 🏆 567 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -38,6 +38,47 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+🌆 Daytime                478 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+🌃 Evening                1494 commits        ██████████████░░░░░░░░░░░   56.53 % 
+🌙 Night                  567 commits         █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   131 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Tuesday                  289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Wednesday                274 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+Thursday                 196 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Friday                   211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Saturday                 685 commits         ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Sunday                   857 commits         ████████░░░░░░░░░░░░░░░░░   32.43 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Python                   3 hrs 9 mins        █████████████████████████   99.23 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+
+🔥 Editors: 
+VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Aiden                    2 hrs 44 mins       ██████████████████████░░░   86.11 % 
+Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+
+💻 Operating System: 
+Linux                    3 hrs 11 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +92,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2024 22:35:19 UTC
+ Last Updated on 17/08/2024 23:06:35 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
