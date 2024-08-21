@@ -28,7 +28,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 20.3 kB Used in GitHub's Storage 
+> 📦 20.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 581 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +92,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 00:23:55 UTC
+ Last Updated on 21/08/2024 00:50:13 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
