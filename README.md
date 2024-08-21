@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -29,8 +29,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 20.4 kB Used in GitHub's Storage 
- > 
-> 🏆 581 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,18 +63,19 @@ Sunday                   871 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   6 hrs 58 mins       █████████████████████████   100.00 % 
+Python                   6 hrs               █████████████████████████   99.61 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 58 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 2 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Aiden                    6 hrs 21 mins       ███████████████████████░░   91.30 % 
-Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-illegal                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Aiden                    5 hrs 18 mins       ██████████████████████░░░   87.92 % 
+Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+illegal                  17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 
 💻 Operating System: 
-Linux                    6 hrs 58 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2024 22:06:13 UTC
+ Last Updated on 21/08/2024 22:35:24 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
