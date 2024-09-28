@@ -65,18 +65,16 @@ Sunday                   871 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   4 hrs 4 mins        █████████████████████████   99.66 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Juno                     4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 5 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +90,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 22:06:28 UTC
+ Last Updated on 28/09/2024 22:36:00 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
