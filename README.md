@@ -20,6 +20,8 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%204%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192.9%20thousand%20lines%20of%20code-blue)
@@ -63,18 +65,17 @@ Sunday                   889 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   3 hrs 58 mins       █████████████████████████   99.23 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Python                   2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs               █████████████████████████   100.00 % 
+VS Code                  2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Juno                     3 hrs 59 mins       █████████████████████████   99.58 % 
-Aiden                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Juno                     2 hrs 54 mins       █████████████████████████   99.43 % 
+Aiden                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Linux                    4 hrs               █████████████████████████   100.00 % 
+Linux                    2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 23:06:25 UTC
+ Last Updated on 10/11/2024 23:35:08 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
