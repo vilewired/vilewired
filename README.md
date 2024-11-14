@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-192.9%20thousand%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@
 
 > 📦 21.7 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 587 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -91,7 +91,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 06:40:40 UTC
+ Last Updated on 14/11/2024 07:07:04 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
