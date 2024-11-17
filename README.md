@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,18 +65,18 @@ Sunday                   894 commits         ████████░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   2 hrs 2 mins        █████████████████████████   99.86 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   1 hr 30 mins        █████████████████████████   99.76 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 2 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 31 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Juno                     1 hr 52 mins        ███████████████████████░░   91.96 % 
-Synthia-bot              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+Juno                     1 hr 17 mins        █████████████████████░░░░   84.82 % 
+Synthia-bot              13 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 31 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +92,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2024 23:07:00 UTC
+ Last Updated on 17/11/2024 23:35:24 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
