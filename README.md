@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -29,8 +29,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 21.8 kB Used in GitHub's Storage 
- > 
-> 🏆 600 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -92,7 +90,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/11/2024 22:37:38 UTC
+ Last Updated on 21/11/2024 23:07:08 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
