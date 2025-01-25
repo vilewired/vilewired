@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -94,7 +94,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2025 12:09:15 UTC
+ Last Updated on 25/01/2025 12:43:57 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
