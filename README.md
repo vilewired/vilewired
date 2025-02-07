@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -29,8 +29,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 23.0 kB Used in GitHub's Storage 
- > 
-> 🏆 148 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -65,19 +63,19 @@ Sunday                   82 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   6 hrs 7 mins        █████████████████████████   99.66 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Python                   6 hrs 25 mins       █████████████████████████   99.67 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AidenTeams               6 hrs 8 mins        █████████████████████████   99.82 % 
-TeamsFramework           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+AidenTeams               6 hrs 26 mins       █████████████████████████   99.83 % 
+TeamsFramework           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Linux                    6 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -93,7 +91,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2025 23:06:42 UTC
+ Last Updated on 07/02/2025 23:35:02 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
