@@ -20,7 +20,7 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-410%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,16 +65,18 @@ Sunday                   82 commits          █████░░░░░░�
 🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Python                   21 mins             █████████████████████████   100.00 % 
+Python                   42 mins             ████████████████████████░   97.58 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-AidenTeams               21 mins             █████████████████████████   100.00 % 
+AidenTeams               39 mins             ███████████████████████░░   90.63 % 
+TeamsFramework           4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
 
 💻 Operating System: 
-Linux                    21 mins             █████████████████████████   100.00 % 
+Linux                    43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -90,7 +92,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2025 23:06:36 UTC
+ Last Updated on 12/02/2025 23:35:01 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
