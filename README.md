@@ -16,8 +16,8 @@
 
 <div align="center">
     
- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vilewired&count_private=true&show_icons=true&theme=radical)](https://github.com/vilewired)
- [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=radical)](https://github.com/vilewired)
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vilewired&count_private=true&show_icons=true&theme=rose_pine)](https://github.com/vilewired)
+ [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=rose_pine)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-438%20hrs%207%20mins-blue)
