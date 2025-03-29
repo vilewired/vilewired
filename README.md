@@ -30,8 +30,6 @@
 
 > 📦 23.8 kB Used in GitHub's Storage 
  > 
-> 🏆 204 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -90,7 +88,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2025 19:06:24 UTC
+ Last Updated on 29/03/2025 19:34:56 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
