@@ -80,17 +80,17 @@ No Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ███████████████░░░░░░░░░░   60.87 % 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Python                   14 repos            ████████████████░░░░░░░░░   63.64 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 
 
 
- Last Updated on 08/05/2025 21:37:12 UTC
+ Last Updated on 08/05/2025 22:08:11 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
