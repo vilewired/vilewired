@@ -104,13 +104,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 <br>
 
-## If you like what I do, please consider donating
-
-Monero (XMR): ```45wj2aubQQQfswkuojCQhZgHCs67nabskhrwYTDEaVmkPtcXZmrkqKKSV1JuhXLU8QfnkyagZXyBM1a9fPHrVyJkGrBxtiB```
-
-All donations are very appreciated, they help me invest more time into my projects and they support me with doing what I love the most.  
-Also, donate or this lovely little fella has to pay with his life (  he only has 9 :c  )
-
 <div align="center">
 
 
