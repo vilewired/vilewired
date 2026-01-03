@@ -20,8 +20,6 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=rose_pine)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.11%20thousand%20lines%20of%20code-blue)
@@ -38,45 +36,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-🌆 Daytime                263 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-🌃 Evening                698 commits         ████████████████░░░░░░░░░   65.91 % 
-🌙 Night                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   166 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Thursday                 122 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Friday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Saturday                 143 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Sunday                   233 commits         ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Berlin
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -90,7 +49,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 08:11:44 UTC
+ Last Updated on 03/01/2026 08:43:54 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
