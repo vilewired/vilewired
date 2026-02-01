@@ -20,6 +20,8 @@
  [![My Github graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vilewired&theme=rose_pine)](https://github.com/vilewired)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2035%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.47%20thousand%20lines%20of%20code-blue?style=flat)
@@ -88,7 +90,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 23:12:03 UTC
+ Last Updated on 01/02/2026 23:43:15 UTC
 <!--END_SECTION:waka-->
 </div>
 <br>
